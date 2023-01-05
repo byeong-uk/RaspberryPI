@@ -8,7 +8,7 @@ import time
 import socket
 import threading
 
-HOST = "172.20.10.2"
+HOST = ""
 PORT = 8000
 #GPIO Mode (BOARD / BCM)9
 GPIO.setmode(GPIO.BCM)
